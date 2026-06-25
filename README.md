@@ -15,3 +15,7 @@
 請確保已安裝 Python 3.x，並安裝以下 OpenCV 相關套件：
 ```bash
 pip install opencv-python numpy
+
+## 參考資料
+內文有測試影片及最後成果
+還有資料集
